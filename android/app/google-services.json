@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074764502905",
+    "project_id": "mask-detection-flutter-app",
+    "storage_bucket": "mask-detection-flutter-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074764502905:android:8dc52d7eaf8a440c0201a8",
+        "android_client_info": {
+          "package_name": "com.example.mask_detection_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwt5mOFrG8cU0JW3wLilNn9SAfH4bbOzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
